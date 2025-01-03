@@ -21,7 +21,7 @@ const PrimerBloque = () => {
         </div>
   
         {/* Párrafo explicativo */}
-        <p className="text-center text-base sm:text-lg lg:text-xl text-gray-700 mx-auto leading-relaxed w-7/12">
+        <p className="text-center text-base font-bold   lg:text-xl text-gray-700 mx-auto leading-relaxed lg:w-7/12">
           ¿Estás cansado de perder tiempo en tareas repetitivas que podrías automatizar? Nuestro servicio de Automatización Avanzada te permite gestionar procesos clave, como, envío de correos, un socio estratégico para tu agencia, respuestas rápidas, sin esfuerzo manual. Con un sistema diseñado específicamente para tu negocio, podés recuperar horas valiosas y asegurarte de que cada cliente reciba atención oportuna y profesional.
         </p>
   
