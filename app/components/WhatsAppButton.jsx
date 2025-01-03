@@ -10,9 +10,11 @@ const WhatsAppButton = () => {
       rel="noopener noreferrer"
       className="fixed bottom-64 right-4 bg-[#25d366] text-white p-4 rounded-full shadow-lg flex items-center justify-center hover:bg-[#128c7e] transition-colors duration-300 z-50"
     >
-      <FaWhatsapp size={30} />
+      {/* Ajustamos el tamaño con clases de Tailwind */}
+      <FaWhatsapp size={16} className="sm:size-8 md:size-12 lg:size-30 xl:size-30" />
     </a>
   );
 };
 
 export default WhatsAppButton;
+
