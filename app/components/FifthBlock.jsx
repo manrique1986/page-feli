@@ -1,15 +1,14 @@
 const FifthBlock = () => {
     return (
       <div className="w-full px-4 sm:px-8 lg:px-24">
-        {/* Nuevo bloque de tarjetas */}
+
         <div className="mt-36">
-          {/* Contenedor de las tarjetas */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 justify-center">
-            {/* Tarjeta 1 */}
+             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 justify-center">
+
             <div className="flex flex-col space-y-4 bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
               <iframe
-                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" // Mantener tamaño para escritorio y más grande en tablet
-                src="https://www.youtube.com/embed/tu_video_aqui" // Reemplaza con tu URL de video
+                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" 
+                src="https://www.youtube.com/embed/tu_video_aqui" 
                 title="Tarjeta 1"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -21,7 +20,8 @@ const FifthBlock = () => {
               </p>
               <div className="flex justify-center w-full">
                 <a
-                  href="#"
+                   href="https://wa.me/+543585411552"
+           target="_blank"
                   className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm font-semibold  rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
                 >
                   Lee cómo podes convertir
@@ -29,11 +29,10 @@ const FifthBlock = () => {
               </div>
             </div>
   
-            {/* Tarjeta 2 */}
             <div className="flex flex-col space-y-4 bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
               <iframe
-                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" // Mantener tamaño para escritorio y más grande en tablet
-                src="https://www.youtube.com/embed/tu_video_aqui" // Reemplaza con tu URL de video
+                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" 
+                src="https://www.youtube.com/embed/tu_video_aqui" 
                 title="Tarjeta 2"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -45,19 +44,19 @@ const FifthBlock = () => {
               </p>
               <div className="flex justify-center w-full">
                 <a
-                  href="#"
+                   href="https://wa.me/+543585411552"
+           target="_blank"
                   className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
                 >
                   A quién le vende?
                 </a>
               </div>
             </div>
-  
-            {/* Tarjeta 3 */}
+
             <div className="flex flex-col space-y-4 bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
               <iframe
-                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" // Mantener tamaño para escritorio y más grande en tablet
-                src="https://www.youtube.com/embed/tu_video_aqui" // Reemplaza con tu URL de video
+                className="w-full h-[240px] lg:h-[240px] sm:h-[300px] rounded-xl" 
+                src="https://www.youtube.com/embed/tu_video_aqui" 
                 title="Tarjeta 3"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -69,7 +68,8 @@ const FifthBlock = () => {
               </p>
               <div className="flex justify-center w-full">
                 <a
-                  href="#"
+                  href="https://wa.me/+543585411552"
+           target="_blank"
                   className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm  font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
                 >
                   Conoce más

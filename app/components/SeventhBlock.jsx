@@ -14,9 +14,9 @@ const SeventhBlock = () => {
     <div className="mt-16 w-full max-w-full">
       <div className="relative w-full">
         {/* Contenedor con gradiente de fondo */}
-        <div className="bg-gradient-to-r py-20 text-center text-black z-10">
+        <div className=" text-center text-black z-10">
           {/* Título completamente centrado */}
-          <h2 className="text-4xl sm:text-3xl md:text-4xl font-bold text-shadow-lg mb-8">
+          <h2 className="text-4xl sm:text-3xl md:text-4xl font-bold text-shadow-lg ">
             FAQ
           </h2>
         </div>

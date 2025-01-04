@@ -1,6 +1,5 @@
 import FifthBlock from "./components/FifthBlock";
 import FirstBlock from "./components/FirstBlock";
-import Footer from "./components/Footer";
 import FourthBlock from "./components/FourthBlock";
 import SecondBlock from "./components/SecondBlock";
 import SeventhBlock from "./components/SeventhBlock";
@@ -18,7 +17,6 @@ export default function Home() {
       <FifthBlock/>
       <SixthBlock/>
       <SeventhBlock/>
-      <Footer/>
 
 
   </div>

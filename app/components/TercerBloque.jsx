@@ -25,10 +25,11 @@ const ThirdBlock = () => {
 
           {/* Botón debajo del texto */}
           <Link
-            href="/gpt"
+            href="https://wa.me/+543585411552"
+           target="_blank"
             className="w-full max-w-[320px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
-            Descubrí cómo podés automatizarlo
+           Mas informacion
           </Link>
         </div>
       </div>
@@ -44,10 +45,11 @@ const ThirdBlock = () => {
 
           {/* Botón debajo del texto */}
           <a
-            href="#"
+            href="https://wa.me/+543585411552"
+           target="_blank"
             className="w-full max-w-[320px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
-            Descubrí cómo podés automatizarlo
+          Mas informacion
           </a>
         </div>
 
