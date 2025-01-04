@@ -10,7 +10,7 @@ const ThirdBlock = () => {
           <div className="relative w-full h-full">
             <iframe
               className="w-full h-full rounded-lg"
-              src="https://www.youtube.com/embed/7bJFiK-fH28?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=1&iv_load_policy=3"
+              src="https://www.youtube.com/embed/9c4N0r374I8"
               title="YouTube video player"
               frameBorder="0"
               allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -59,7 +59,8 @@ const ThirdBlock = () => {
           <div className="relative w-full h-full">
             <iframe
               className="w-full h-full rounded-lg"
-              src="https://www.youtube.com/embed/9c4N0r374I8"
+              src="https://www.youtube.com/embed/7bJFiK-fH28?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=1&iv_load_policy=3"
+              
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

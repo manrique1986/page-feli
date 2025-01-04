@@ -46,7 +46,7 @@ const ThirdBlock = () => {
           {/* Botón debajo del texto */}
           <a
             href="https://wa.me/+543585411552"
-           target="_blank"
+           target="_blank"  
             className="w-full max-w-[320px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
           Mas informacion
