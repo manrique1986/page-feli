@@ -8,7 +8,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
               <img
                 className="w-full h-full object-cover rounded-xl"
-                src=""
+                src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290432/DALL_E_2025-01-07_18.39.49_-_A_professional_graphic_design_for_measurable_objectives_structuring_using_kwpxoq.webp"
                 alt="Imagen 1"
               />
             </div>
@@ -42,7 +42,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
               <img
                 className="w-full h-full object-cover rounded-xl"
-                src=""
+                src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290398/DALL_E_2025-01-07_18.40.25_-_A_professional_graphic_design_for_team_optimization_using_the_colors_blac_qvhgco.webp"
                 alt="Imagen 2"
               />
             </div>

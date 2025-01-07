@@ -11,7 +11,7 @@ const FirstBlock = () => {
           <div className="relative w-full h-0" style={{ paddingBottom: '56.25%' }}> {/* Esto mantiene la relación de aspecto 16:9 */}
             <iframe
               className="absolute top-0 left-0 w-full h-full rounded-xl"
-              src="https://www.youtube.com/embed/0mUxAeP9ASs"
+              src="https://www.youtube.com/embed/tL5PB9XQaBA"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

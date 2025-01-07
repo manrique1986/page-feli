@@ -8,7 +8,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-0" style={{ paddingBottom: '56.25%' }}> {/* Mantener relación 16:9 */}
               <iframe
                 className="absolute top-0 left-0 w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/Rb25uXalKKk" // Reemplaza VIDEO_ID_1 con el ID del primer video de YouTube
+                src="https://www.youtube.com/embed/Q3Lz3gcOu6M" // Reemplaza VIDEO_ID_1 con el ID del primer video de YouTube
                 title="YouTube video player"
                 frameBorder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -45,7 +45,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-0" style={{ paddingBottom: '56.25%' }}> {/* Mantener relación 16:9 */}
               <iframe
                 className="absolute top-0 left-0 w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/MZvLAOepLCc" // Reemplaza VIDEO_ID_2 con el ID del segundo video de YouTube
+                src="https://www.youtube.com/embed/gKsgiaIH3d0" // Reemplaza VIDEO_ID_2 con el ID del segundo video de YouTube
                 title="YouTube video player"
                 frameBorder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

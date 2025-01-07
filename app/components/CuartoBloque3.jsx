@@ -8,7 +8,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
               <img
                 className="w-full h-full object-cover rounded-xl"
-                src=""
+                src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290205/DALL_E_2025-01-07_18.35.40_-_A_professional_1-on-1_mentorship_graphic_design_using_the_colors_black_g_dzr1zn.webp"
                 alt="Imagen 1"
               />
             </div>
@@ -42,7 +42,7 @@ const FourthBlock = () => {
             <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
               <img
                 className="w-full h-full object-cover rounded-xl"
-                src=""
+                src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290076/DALL_E_2025-01-07_18.36.22_-_A_professional_resolution_and_focus_graphic_design_using_the_colors_black_aod1yh.webp"
                 alt="Imagen 2"
               />
             </div>
@@ -60,7 +60,7 @@ const FourthBlock = () => {
             {/* Botón debajo del párrafo */}
             <div className="flex justify-start">
               <a
-                href="#"
+                href=""
                 className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Coordina tu comienzo

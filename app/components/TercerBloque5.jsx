@@ -60,7 +60,7 @@ Plantillas para presentaciones internas y externas.
           <div className="relative w-full h-full overflow-hidden rounded-xl">
             <img
               className="w-full h-full object-cover rounded-xl"
-              src=""
+              src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290322/DALL_E_2025-01-07_18.38.23_-_A_professional_graphic_design_for_customized_strategic_templates_using_th_upt6eu.webp"
               alt="Imagen descriptiva"
             />
           </div>

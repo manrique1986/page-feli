@@ -5,9 +5,9 @@ const FourthBlock = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mt-8">
         {/* Imagen a la izquierda */}
         <div className="flex justify-center items-center">
-          <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
+          <div className="relative w-full lg:w-[500px] h-[350px] rounded-2xl overflow-hidden"> {/* Contenedor con borde redondeado */}
             <img
-              className="w-full h-full object-cover rounded-xl"
+              className="w-full h-full object-cover rounded-2xl"  // Imagen que cubre todo el contenedor y tiene borde redondeado
               src="https://res.cloudinary.com/dytpump6i/image/upload/v1736019843/WhatsApp_Image_2025-01-04_at_15.33.03_e8vboq.jpg"
               alt="Imagen 1"
             />
@@ -26,7 +26,7 @@ const FourthBlock = () => {
           {/* Botón debajo del párrafo */}
           <div className="flex justify-start">
             <a
-              href="/page3"
+              href=""
               className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
             >
               Comencemos
@@ -39,9 +39,9 @@ const FourthBlock = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mt-16">
         {/* Imagen a la derecha */}
         <div className="flex justify-center items-center">
-          <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
+          <div className="relative w-full lg:w-[500px] h-[350px] rounded-2xl overflow-hidden"> {/* Contenedor con borde redondeado */}
             <img
-              className="w-full h-full object-cover rounded-xl"
+              className="w-full h-full object-cover rounded-2xl"  // Imagen que cubre todo el contenedor y tiene borde redondeado
               src="https://res.cloudinary.com/dytpump6i/image/upload/v1736019869/WhatsApp_Image_2025-01-04_at_15.33.35_aelest.jpg"
               alt="Imagen 2"
             />
@@ -77,6 +77,8 @@ const FourthBlock = () => {
 };
 
 export default FourthBlock;
+
+
 
 
 

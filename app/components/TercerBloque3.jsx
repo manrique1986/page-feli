@@ -10,7 +10,7 @@ const ThirdBlock = () => {
           <div className="relative w-full h-full overflow-hidden rounded-xl">
             <img
               className="w-full h-full object-cover rounded-xl"
-              src=""
+              src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290173/DALL_E_2025-01-07_18.34.16_-_A_professional_personalized_diagnosis_graphic_design_using_the_colors_bla_j9l6cw.webp"
               alt="Imagen descriptiva"
             />
           </div>
@@ -58,7 +58,7 @@ const ThirdBlock = () => {
           <div className="relative w-full h-full overflow-hidden rounded-xl">
             <img
               className="w-full h-full object-cover rounded-xl"
-              src=""
+              src="https://res.cloudinary.com/dytpump6i/image/upload/v1736290265/DALL_E_2025-01-07_18.34.57_-_A_professional_custom_action_plan_graphic_design_using_the_colors_black_ozqyp4.webp"
               alt="Imagen descriptiva"
             />
           </div>
