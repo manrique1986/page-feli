@@ -26,7 +26,7 @@ const FourthBlock = () => {
           {/* Botón debajo del párrafo */}
           <div className="flex justify-start">
             <a
-              href="#"
+              href="/page3"
               className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
             >
               Comencemos

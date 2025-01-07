@@ -3,7 +3,7 @@ const PrimerBloque = () => {
       <div className="flex flex-col items-center justify-center p-4">
         {/* Titulo centrado */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-center mb-8" style={{ color: '#001122' }}>
-        Conoce el potencial que estas dejando detrás
+        Basta de entregar dos links en tu proceso de entrega
         </h1>
   
         {/* Primer Video embebido de YouTube */}
@@ -22,8 +22,8 @@ const PrimerBloque = () => {
   
         {/* Párrafo explicativo con diseño limpio y dinámico */}
         <p className="text-center text-base sm:text-lg lg:text-xl font-medium text-gray-700 mx-auto leading-relaxed sm:leading-relaxed lg:leading-relaxed mb-6 lg:w-8/12 px-6 sm:px-8">
-        Un diagnóstico detallado y asesoramiento 1 a 1 para llevar tu negocio al siguiente nivel.
-        Entendé qué funciona, qué no, y descubrí las estrategias que realmente marcarán la diferencia
+        Dejá de perder clientes después de la primera compra. Con nuestro sistema de onboarding y fidelización, creamos relaciones duraderas que multiplican tus recompras y recomendaciones.
+
 
         </p>
   

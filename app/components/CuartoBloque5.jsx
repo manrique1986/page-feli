@@ -1,75 +1,70 @@
 const FourthBlock = () => {
     return (
       <div className="w-full px-4 sm:px-8 lg:px-24">
-        {/* Primer video con título y párrafo */}
+        {/* Primer bloque con título, párrafo e imagen */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mt-8">
-          {/* Video a la izquierda */}
+          {/* Imagen a la izquierda */}
           <div className="flex justify-center items-center">
-            <div className="relative w-full lg:w-[450px] h-0" style={{ paddingBottom: '56.25%' }}> {/* Mantener relación 16:9 */}
-              <iframe
-                className="absolute top-0 left-0 w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/Rb25uXalKKk" // Reemplaza VIDEO_ID_1 con el ID del primer video de YouTube
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
+              <img
+                className="w-full h-full object-cover rounded-xl"
+                src=""
+                alt="Imagen 1"
+              />
             </div>
           </div>
   
           {/* Título y párrafo a la derecha */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
-              Consultoría 1 a 1
+            Estructuración de Objetivos Medibles:
             </h2>
             <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
-              Sesiones personalizadas para ajustar y planificar estrategias.
+            Conectamos acciones diarias con metas trimestrales y anuales.
             </p>
   
             {/* Botón debajo del párrafo */}
             <div className="flex justify-start">
               <a
-                href="/page3"
+                href="#"
                 className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
-                Conoce aún más
+                Comencemos
               </a>
             </div>
           </div>
         </div>
   
-        {/* Segundo video con título y párrafo */}
+        {/* Segundo bloque con título, párrafo e imagen */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mt-16">
-          {/* Video a la derecha */}
+          {/* Imagen a la derecha */}
           <div className="flex justify-center items-center">
-            <div className="relative w-full lg:w-[450px] h-0" style={{ paddingBottom: '56.25%' }}> {/* Mantener relación 16:9 */}
-              <iframe
-                className="absolute top-0 left-0 w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/MZvLAOepLCc" // Reemplaza VIDEO_ID_2 con el ID del segundo video de YouTube
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div className="relative w-full lg:w-[450px] h-[300px] rounded-xl overflow-hidden">
+              <img
+                className="w-full h-full object-cover rounded-xl"
+                src=""
+                alt="Imagen 2"
+              />
             </div>
           </div>
   
           {/* Título y párrafo a la izquierda */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
-              Seguimiento extendido
+            Optimización del Equipo:
             </h2>
             <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
-              Optimización y métricas continuas para resultados sostenibles.
+            Herramientas para asignar tareas y medir resultados.
+            Capacitación para que cada miembro entienda su rol y cómo contribuye al éxito del negocio.
             </p>
   
             {/* Botón debajo del párrafo */}
             <div className="flex justify-start">
               <a
-                href="/page4"
+                href="#"
                 className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
-                ¿Por cuánto tiempo es el seguimiento?
+           Ver Todos los Detalles
               </a>
             </div>
           </div>
