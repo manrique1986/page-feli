@@ -4,7 +4,7 @@ const SixthBlock = () => {
         <div className=" text-center px-6">
           {/* Título */}
           <h2 className="text-xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-800 mb-6 whitespace-nowrap">
-            Obtene tu ....
+            Obtene tu seguimiento extendido
           </h2>
   
           {/* Botón */}

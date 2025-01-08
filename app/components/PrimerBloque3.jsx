@@ -29,7 +29,8 @@ const PrimerBloque = () => {
   
         {/* Botón "Acceder" */}
         <a
-          href="#"
+          href="https://wa.me/+543585411552"
+           target="_blank"
           className="mt-6 w-full sm:w-[300px] md:w-[400px] lg:w-[564px] h-[45px] bg-[#222222] text-white text-lg font-semibold rounded-xl flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
         >
           Acceder
