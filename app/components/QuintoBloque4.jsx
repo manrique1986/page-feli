@@ -37,7 +37,7 @@ const FifthBlock = () => {
             <div className="flex justify-center mt-auto">
               <a
                 href="https://link.mercadopago.com.ar/agenciafb"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-black text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
               >
                 Get Started
               </a>
@@ -84,7 +84,7 @@ const FifthBlock = () => {
             <div className="flex justify-center mt-auto">
               <a
                 href="https://link.mercadopago.com.ar/agenciafb"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-black text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
               >
                 Get Started
               </a>
@@ -131,7 +131,7 @@ const FifthBlock = () => {
             <div className="flex justify-center mt-auto">
               <a
                 href="https://link.mercadopago.com.ar/agenciafb"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-black text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[45px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center transition-all duration-300 ease-in-out transform hover:bg-gradient-to-r hover:from-[#FFD700] hover:to-[#FFC107] hover:scale-105"
               >
                 Get Started
               </a>

@@ -14,7 +14,7 @@ const SeventhBlock = () => {
     <div className="mt-16 w-full max-w-full">
       <div className="relative w-full">
         {/* Contenedor con gradiente de fondo */}
-        <div className=" text-center text-black z-10">
+        <div className=" text-center text-[#1B3A4B] z-10">
           {/* Título completamente centrado */}
           <h2 className="text-4xl sm:text-3xl md:text-4xl font-bold text-shadow-lg ">
             FAQ
@@ -62,7 +62,7 @@ const SeventhBlock = () => {
                     activeQuestion === index ? 'max-h-[500px] p-2' : 'max-h-0 p-0'
                   }`}
                 >
-                  <p className="mt-2 text-gray-700">{item.answer}</p>
+                  <p className="mt-2 text-[#1B3A4B]">{item.answer}</p>
                 </div>
               </div>
             ))}

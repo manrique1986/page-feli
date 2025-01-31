@@ -19,10 +19,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la derecha */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
               Consultoría 1 a 1
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
               Sesiones personalizadas para ajustar y planificar estrategias.
             </p>
   
@@ -30,7 +30,7 @@ const FourthBlock = () => {
             <div className="flex justify-start">
               <a
                 href="/page3"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Conoce aún más
               </a>
@@ -56,10 +56,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la izquierda */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
               Seguimiento extendido
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
               Optimización y métricas continuas para resultados sostenibles.
             </p>
   
@@ -67,7 +67,7 @@ const FourthBlock = () => {
             <div className="flex justify-start">
               <a
                 href="/page4"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 ¿Por cuánto tiempo es el seguimiento?
               </a>

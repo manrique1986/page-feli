@@ -16,10 +16,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la derecha */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
             Estructuración de Objetivos Medibles:
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
             Conectamos acciones diarias con metas trimestrales y anuales.
             </p>
   
@@ -28,7 +28,7 @@ const FourthBlock = () => {
               <a
                 href="https://wa.me/+543585411552"
            target="_blank"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Comencemos
               </a>
@@ -51,10 +51,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la izquierda */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
             Optimización del Equipo:
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
             Herramientas para asignar tareas y medir resultados.
             Capacitación para que cada miembro entienda su rol y cómo contribuye al éxito del negocio.
             </p>
@@ -64,7 +64,7 @@ const FourthBlock = () => {
               <a
              href="https://wa.me/+543585411552"
            target="_blank"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
            Ver Todos los Detalles
               </a>

@@ -18,7 +18,7 @@ const FifthBlock = () => {
               <a
                 href="https://wa.me/+543585411552"
                 target="_blank"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm font-semibold  rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#B0846A] text-white text-sm font-semibold  rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Lee cómo podes convertir
               </a>
@@ -40,7 +40,7 @@ const FifthBlock = () => {
               <a
                 href="https://wa.me/+543585411552"
                 target="_blank"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#B0846A] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 A quién le vende?
               </a>
@@ -62,7 +62,7 @@ const FifthBlock = () => {
               <a
                 href="https://wa.me/+543585411552"
                 target="_blank"
-                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#222222] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-[200px] sm:w-[250px] lg:w-[200px] h-[40px] bg-[#B0846A] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Conoce más
               </a>

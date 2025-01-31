@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className="min-h-screen bg-gradient-to-br from-yellow-100 via-yellow-200 to-yellow-300 animate-gradient-animation filter"
+        className=""
       >
         
         {children}

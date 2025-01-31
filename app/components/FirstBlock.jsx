@@ -2,7 +2,7 @@ const FirstBlock = () => {
     return (
       <div className="flex flex-col items-center justify-center p-4">
         {/* Titulo centrado */}
-        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-center mb-8" style={{ color: '#001122' }}>
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-center mb-8 text-[#1B3A4B]" >
           ¡Gracias por confiar!
         </h1>
   
@@ -21,7 +21,7 @@ const FirstBlock = () => {
         </div>
   
         {/* Párrafo explicativo */}
-        <p className="text-center text-base sm:text-lg lg:text-xl text-gray-700 mx-auto leading-relaxed">
+        <p className="text-center text-base sm:text-lg lg:text-xl text-[#1B3A4B] mx-auto leading-relaxed">
           Te explicamos cómo funciona nuestro servicio y cómo personalizarlo con opciones exclusivas para ti.
         </p>
   
@@ -29,7 +29,7 @@ const FirstBlock = () => {
         <a
           href="https://wa.me/+543585411552"
            target="_blank"
-          className="mt-6 w-full sm:w-[300px] md:w-[400px] lg:w-[564px] h-[45px] bg-[#222222] text-white text-lg font-semibold rounded-xl flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+          className="mt-6 w-full sm:w-[300px] md:w-[400px] lg:w-[564px] h-[45px] bg-[#B0846A] text-white text-lg font-semibold rounded-xl flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
         >
           Accede al drive personalizado
         </a>

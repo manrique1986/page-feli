@@ -18,8 +18,8 @@ const ThirdBlock = () => {
 
         {/* Texto a la derecha */}
         <div className="text-left space-y-6">
-          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-800">Análisis Personalizado:</h2>
-          <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 max-w-full sm:w-80">
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-[#1B3A4B]">Análisis Personalizado:</h2>
+          <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] max-w-full sm:w-80">
             Evaluamos tus procesos actuales y necesidades clave, brindándote soluciones precisas y efectivas.
           </p>
 
@@ -27,7 +27,7 @@ const ThirdBlock = () => {
           <Link
             href="https://wa.me/+543585411552"
             target="_blank"
-            className="w-full max-w-[320px] h-[50px] bg-[#222222] text-white text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+            className="w-full max-w-[320px] h-[50px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
             Más información
           </Link>
@@ -38,8 +38,8 @@ const ThirdBlock = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12">
         {/* Texto a la izquierda */}
         <div className="text-left ml-32 space-y-6 mx-auto">
-          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-800">Capacitación Completa:</h2>
-          <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 max-w-full sm:w-80">
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-[#1B3A4B]">Capacitación Completa:</h2>
+          <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] max-w-full sm:w-80">
             Videos tutoriales y guías paso a paso para que puedas gestionar el sistema con facilidad y seguridad.
           </p>
 
@@ -47,7 +47,7 @@ const ThirdBlock = () => {
           <a
             href="https://wa.me/+543585411552"
             target="_blank"
-            className="w-full max-w-[320px] h-[50px] bg-[#222222] text-white text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+            className="w-full max-w-[320px] h-[50px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
             Más información
           </a>

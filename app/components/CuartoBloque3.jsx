@@ -16,10 +16,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la derecha */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
             Acompañamiento 1 a 1:
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
             Tendrás acceso a una asesoría personalizada donde trabajaremos juntos en cada área clave de tu negocio.
             </p>
   
@@ -28,7 +28,7 @@ const FourthBlock = () => {
               <a
                 href="https://wa.me/+543585411552"
            target="_blank"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Comencemos
               </a>
@@ -51,10 +51,10 @@ const FourthBlock = () => {
   
           {/* Título y párrafo a la izquierda */}
           <div className="text-left space-y-4 mt-8 lg:mt-0">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-800">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1B3A4B]">
             Resolución y enfoque: 
             </h2>
-            <p className="text-lg sm:text-xl lg:text-2xl text-gray-700 w-full sm:w-72">
+            <p className="text-lg sm:text-xl lg:text-2xl text-[#1B3A4B] w-full sm:w-72">
             Centramos que las soluciones sean 100% adaptadas a tu negocio. El enfoque claro va a hacer que dirijamos todas las acciones a ese objetivo
             </p>
   
@@ -63,7 +63,7 @@ const FourthBlock = () => {
               <a
              href="https://wa.me/+543585411552"
            target="_blank"
-                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#222222] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+                className="w-full sm:w-[300px] lg:w-[360px] h-[40px] sm:h-[50px] bg-[#B0846A] text-white text-sm sm:text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
               >
                 Coordina tu comienzo
               </a>
