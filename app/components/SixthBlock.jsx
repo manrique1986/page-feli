@@ -32,7 +32,7 @@ const SixthBlock = () => {
                   Quiero agendar mi primera llamada de onboarding!
                 </a>
               </div>
-              <div className="bg-[#B0846A] bg-opacity-50 rounded-md py-3 px-8 w-full sm:w-auto">
+              <div className="bg-black bg-opacity-50 rounded-md py-3 px-8 w-full sm:w-auto">
                 <a
                   href="#"
                   className="text-white text-lg font-semibold hover:bg-opacity-70 transition duration-300 block text-center"

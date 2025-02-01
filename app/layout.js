@@ -21,17 +21,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className=""
-      >
-        
-        {children}
-        <WhatsAppButton/>
-        <Footer/>
-      </body>
+      <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        {/* Capa oscura */}
+        <div className="overlay"></div>
 
- 
-      
+        {children}
+        <WhatsAppButton />
+        <Footer />
+      </body>
     </html>
   );
 }
