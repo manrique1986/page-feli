@@ -5,12 +5,12 @@ const SixthBlock = () => {
           {/* Imagen de fondo */}
           <img
             className="w-full h-full object-cover absolute top-0 left-0"
-            src="https://res.cloudinary.com/dytpump6i/image/upload/v1735768655/FB_ylck5l.png" // Reemplaza con la URL de tu imagen
+            src="https://res.cloudinary.com/dytpump6i/image/upload/v1738441559/DALL_E_2025-02-01_11.26.55_-_A_luxurious_and_sophisticated_presentation_background_for_Azzurro_featur_j8aq7i.webp" // Reemplaza con la URL de tu imagen
             alt="Imagen personalizada"
           />
   
           {/* Contenedor con fondo negro semi-transparente detrás del texto */}
-          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white space-y-6 z-10 px-6 py-4 bg-black bg-opacity-25 rounded-lg w-full max-w-3xl">
+          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white space-y-6 z-10 px-6 py-4 bg-[#1B3A4B] bg-opacity-75  rounded-lg w-full max-w-3xl">
             {/* Título */}
             <h2 className="text-4xl sm:text-3xl md:text-4xl font-bold text-shadow-lg">
               Listo para transformar tu negocio

@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {/* Capa oscura */}
-        <div className="overlay"></div>
+      
 
         {children}
         <WhatsAppButton />
