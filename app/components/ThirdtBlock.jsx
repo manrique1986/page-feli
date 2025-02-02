@@ -29,7 +29,7 @@ const ThirdBlock = () => {
           {/* Botón debajo del texto */}
           <Link
             href="/page1"
-            className="w-full max-w-[320px] h-[45px] bg-[#B0846A] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+            className="w-full max-w-[400px] h-[45px] bg-[#B0846A] text-white text-lg font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
             Descubrí cómo podés automatizarlo
           </Link>
@@ -48,7 +48,7 @@ const ThirdBlock = () => {
           {/* Botón debajo del texto */}
           <a
             href="/page2"
-            className="w-full max-w-[320px] h-[45px] bg-[#B0846A] text-white text-sm font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
+            className="w-full max-w-[400px] h-[45px] bg-[#B0846A] text-white text-lg text-center font-semibold rounded-full flex items-center justify-center hover:bg-zinc-700 transition-colors duration-300"
           >
             Conocé como diferenciarte con tu servicio
           </a>
