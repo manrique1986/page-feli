@@ -5,7 +5,7 @@ const SixthBlock = () => {
           {/* Imagen de fondo */}
           <img
             className="w-full h-full object-cover absolute top-0 left-0"
-            src="https://res.cloudinary.com/dytpump6i/image/upload/v1738441559/DALL_E_2025-02-01_11.26.55_-_A_luxurious_and_sophisticated_presentation_background_for_Azzurro_featur_j8aq7i.webp" // Reemplaza con la URL de tu imagen
+            src="https://res.cloudinary.com/dytpump6i/image/upload/v1738459578/WhatsApp_Image_2025-02-01_at_22.24.32_qtmbbo.jpg" // Reemplaza con la URL de tu imagen
             alt="Imagen personalizada"
           />
   
